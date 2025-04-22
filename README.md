@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2025-04-23 at 1 47 13 AM" src="https://github.com/user-attachments/assets/853e026a-198e-4566-b8d8-8a2541245130" /># Parketeria
+## Parketeria
 
 Parketeria is a mobile & web cross‑platform AI‑powered solution that consolidates parking discovery, EV‑charging, and traffic management into one mobility ecosystem. End users immediately discover and book parking, find local EV charging points, and get AI‑enabled route guidance. Municipal governments and parking authorities obtain real‑time monitoring, predictive traffic analysis, and automated enforcement capabilities—all built on scalable cloud services
 
